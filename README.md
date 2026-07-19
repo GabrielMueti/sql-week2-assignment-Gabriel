@@ -13,21 +13,6 @@ This repository contains my solutions for the SQL Week 2 Assignment. The project
 
 **Database:** PostgreSQL
 
-
-
-## Project Structure
-
-sql-week2-assignment-gabriel/
-├── README.md
-├── DDL and DML Scripts
-├── Queries script
-├── Operators script
-├── Count and Case When scripts
-
-
-
-
-
 ## Topics Covered
 
 ### Section A – Building the Database (DDL)
