@@ -1,4 +1,3 @@
--- Q1. Create schema and use it
 CREATE SCHEMA greenwood_academy;
 
 SET search_path TO greenwood_academy;
